@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://www.cidbec.com.my/wp-content/uploads/2022/12/Sobery-Bin-Basri.jpg"
+<p align="right"> <h3>Profile Views :-</h3> <img src="[https://www.cidbec.com.my/wp-content/uploads/2022/12/Sobery-Bin-Basri.jpg](https://imgur.com/3invbuX.jpg)"
     alt="duncansez" /> 
   </p>
 
