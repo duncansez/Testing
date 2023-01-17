@@ -6,7 +6,7 @@ I am  __Sobery__, and I am a student at [Universiti Teknologi Malaysia](https://
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/duncansez" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@duncansez-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/soberybasri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-soberybasri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soberybasri/"></a>
+    <a href="https://www.linkedin.com/in/soberybasri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-soberybasri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sobery-basri-7b20aa105/"></a>
     <a href="mailto:soberybasri@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-soberybasri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soberybasri@gmail.com"></a>    
 </p>
   
