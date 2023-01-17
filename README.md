@@ -3,19 +3,6 @@
 
 I am  __Sobery__, and I am a student at [Universiti Teknologi Malaysia](https://www.utm.my).
 
-### 📚 Courses
-- High Performance Data Processing 
-  -   [Python for beginners](https://github.com/drshahizan/python-tutorial)
-  -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
-  -   [Big data processing](https://github.com/drshahizan/Python-big-data)
-- [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
-- [Web Programming - PHP](https://github.com/drshahizan/learn-php)
-
-### 👨‍💻 Research Colloquium
-- [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
-- [Learn Github](https://github.com/drshahizan/learn-github)
-- [Research material](https://github.com/drshahizan/research-material)
-
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/duncansez" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@duncansez-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
